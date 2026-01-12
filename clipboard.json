@@ -1,10 +1,17 @@
 {
   "version": "1.0",
   "current": {
-    "content": "You are out of monthly free usage or have exceeded your budget for Codespaces. Increase your budget to continue using Codespaces.",
-    "contentHash": "d17e40466af98afd61ec477741a9bf13ec3767ae9926b95c1d0237dd371fd26e",
+    "content": "你现在是",
+    "contentHash": "bbe2042c671501d2cf69408fe4bdf15aac8d30949c1ff023d610e7d18c9094a2",
     "deviceId": "ADMINISTRATOR",
-    "timestamp": "2026-01-12T13:36:45.7521847Z"
+    "timestamp": "2026-01-12T13:42:37.404257Z"
   },
-  "history": []
+  "history": [
+    {
+      "content": "You are out of monthly free usage or have exceeded your budget for Codespaces. Increase your budget to continue using Codespaces.",
+      "contentHash": "d17e40466af98afd61ec477741a9bf13ec3767ae9926b95c1d0237dd371fd26e",
+      "deviceId": "ADMINISTRATOR",
+      "timestamp": "2026-01-12T13:36:45.7521847Z"
+    }
+  ]
 }
